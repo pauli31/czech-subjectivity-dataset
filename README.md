@@ -1,7 +1,9 @@
 # Czech Subjectivity Dataset
 
 This is the repository for the newly created Czech Subjectivity Dataset (Subj-CS) and our paper:
+
 ##Czech Dataset for Cross-lingual Subjectivity Classification
+
 Accepted to [LREC 2022](https://lrec2022.lrec-conf.org/) Conference.
 
 
