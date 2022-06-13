@@ -12,6 +12,8 @@ Dataset Download:
 The [Czech Subjectivity Dataset](https://drive.google.com/file/d/1R0bPPWJ7sdIaCxyPrO_rmTVFNNsd9RaI/view?usp=sharing) is available for download from this
 [https://drive.google.com/file/d/1R0bPPWJ7sdIaCxyPrO_rmTVFNNsd9RaI/view?usp=sharing](https://drive.google.com/file/d/1R0bPPWJ7sdIaCxyPrO_rmTVFNNsd9RaI/view?usp=sharing)
 
+The dataset is also available in the [HuggingFace Datasets](https://huggingface.co/datasets/pauli31/czech-subjectivity-dataset)
+
 Usage:
 --------
 We will add usage and setup soon.
