@@ -50,13 +50,17 @@ Publication:
 If you use our dataset or software for academic research, please cite the our [paper](https://arxiv.org/abs/2204.13915)
 
 ```
-@article{pib2022czech,
-    title={Czech Dataset for Cross-lingual Subjectivity Classification},
-    author={Pavel Přibáň and Josef Steinberger},
-    year={2022},
-    eprint={2204.13915},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{priban-steinberger-2022-czech,
+    title = "{C}zech Dataset for Cross-lingual Subjectivity Classification",
+    author = "P{\v{r}}ib{\'a}{\v{n}}, Pavel  and
+      Steinberger, Josef",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.148",
+    pages = "1381--1391",
 }
 ```
 
