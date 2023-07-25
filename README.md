@@ -47,7 +47,7 @@ It is strictly prohibited to use the dataset for any commercial purpose.
 Publication:
 --------
 
-If you use our dataset or software for academic research, please cite the our [paper](https://arxiv.org/abs/2204.13915)
+If you use our dataset or software for academic research, please cite our [paper](https://arxiv.org/abs/2204.13915)
 
 ```
 @inproceedings{priban-steinberger-2022-czech,
