@@ -64,8 +64,6 @@ If you use our dataset or software for academic research, please cite our [paper
 }
 ```
 
-Official proceedings citation will follow soon.
-
 Contact:
 --------
 pribanp@kiv.zcu.cz
